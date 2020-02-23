@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name":"Jeannie Davis",
+    "occupation":"Front End Developer",
+    "description":"I'm an inspiring engineer working towards a degree in ",
+    "degree": "Computer Science",
+    "image":"profilepic.jpg",
+    "bio":"My name is Jeannie Davis, I’m inspiring software developer, dog mom, gamer, and a foodie. I live and breathe all things digital, and I have an eye for design and detail. ",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "jeanniedavis94@gmail.com",
+    "phone": "831-313-7328",
+    "address":{
+      "city":"Bay Area",
+      "state":"CA",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jeannie-davis-0757a1116/",
+        "className":"fa fa-linkedin pink-icon" 
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/piikachuuu",
+        "className":"fa fa-github pink-icon"
+      }
+   
+    ]
+  },
+  "resume":{
+    
+    "education":[
+      {
+        "school":"California State University - Monterey Bay",
+        "degree":"Bachelor's of Science - Computer Science",
+        "graduated":"January 2020 - May 2021",
+        "description":" "
+      },
+      {
+        "school":"California State University - East Bay",
+        "degree":"Bachelor's of Science - Computer Science",
+        "graduated": "January 2018 - May 2019",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Sleeper",
+        "title":"Customer Success Manager ",
+        "years":"June 2019 - Present",
+        "description":"In charge of creating user support flow, reporting and prioritizing issues to the engineering team, and created the daily newsletter for users"
+      },
+      {
+        "company":"Outline",
+        "title":"Software Developer Intern",
+        "years":"August 2018 - June 2019",
+        "description":"Helped develop the user interface of the web application using React JS."
+      },
+      {
+        "company":"MdOut",
+        "title":"Software Developer Intern",
+        "years":"May 2018 - July 2018",
+        "description":"Helped plan the user interface using ReactJS, Figma, and Protopie."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"80%"
+      },
+      {
+        "name":"Intercom",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"College blog",
+        "category":"My blog for my university experience",
+        "image":"canadian-wanderlust.png",
+        "url":"https://jeannie.code.blog/"
+      }
+      
+    ]
+  }
+ 
+}
